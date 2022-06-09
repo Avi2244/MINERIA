@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.93118abe.css",
+    "main.css": "/static/css/main.eacde93f.css",
     "main.js": "/static/js/main.e6244d67.js",
+    "static/media/Frame 9.jpg": "/static/media/Frame 9.e8367845fcc92501836e.jpg",
     "static/media/insta wizard.jpg": "/static/media/insta wizard.c07363a995ab1ff12535.jpg",
     "static/media/prehelika.jpg": "/static/media/prehelika.7c31bca49b81bd7a2481.jpg",
     "static/media/tug of war.jpg": "/static/media/tug of war.a8724f64bdcd58582ba4.jpg",
@@ -17,7 +18,6 @@
     "static/media/geo oriel.jpg": "/static/media/geo oriel.df0cde710a11043755d6.jpg",
     "static/media/Cric - Circle.jpg": "/static/media/Cric - Circle.de0419f648ff489813a2.jpg",
     "static/media/mineria.png": "/static/media/mineria.bd52645b55a7f217bbf3.png",
-    "static/media/combined_logo_mineria.png": "/static/media/combined_logo_mineria.e49b2e3168fffd46b5c7.png",
     "static/media/reg6006.svg": "/static/media/reg6006.4adb2478667f795e3e388e9a30cb0a48.svg",
     "static/media/reg1505.svg": "/static/media/reg1505.2cfa982b2aeda9fc2882be0e81f3677e.svg",
     "static/media/reg299.svg": "/static/media/reg299.8f326c85db5953e5666773774c9c5787.svg",
@@ -30,11 +30,11 @@
     "static/media/reg49.svg": "/static/media/reg49.056d3b20ef60d24ad4ebe51faf530fda.svg",
     "static/media/regfree.svg": "/static/media/regfree.65b5e372c6ccc12c54efd65bbdcddb52.svg",
     "index.html": "/index.html",
-    "main.93118abe.css.map": "/static/css/main.93118abe.css.map",
+    "main.eacde93f.css.map": "/static/css/main.eacde93f.css.map",
     "main.e6244d67.js.map": "/static/js/main.e6244d67.js.map"
   },
   "entrypoints": [
-    "static/css/main.93118abe.css",
+    "static/css/main.eacde93f.css",
     "static/js/main.e6244d67.js"
   ]
 }
