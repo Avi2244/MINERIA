@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.835ab27b.css",
-    "main.js": "/static/js/main.7d2b5dff.js",
+    "main.js": "/static/js/main.5ef68107.js",
     "static/media/Frame 9.jpg": "/static/media/Frame 9.e8367845fcc92501836e.jpg",
     "static/media/insta wizard.jpg": "/static/media/insta wizard.c07363a995ab1ff12535.jpg",
     "static/media/prehelika.jpg": "/static/media/prehelika.7c31bca49b81bd7a2481.jpg",
@@ -31,10 +31,10 @@
     "static/media/regfree.svg": "/static/media/regfree.65b5e372c6ccc12c54efd65bbdcddb52.svg",
     "index.html": "/index.html",
     "main.835ab27b.css.map": "/static/css/main.835ab27b.css.map",
-    "main.7d2b5dff.js.map": "/static/js/main.7d2b5dff.js.map"
+    "main.5ef68107.js.map": "/static/js/main.5ef68107.js.map"
   },
   "entrypoints": [
     "static/css/main.835ab27b.css",
-    "static/js/main.7d2b5dff.js"
+    "static/js/main.5ef68107.js"
   ]
 }
