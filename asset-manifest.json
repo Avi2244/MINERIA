@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.204f7c0b.css",
+    "main.js": "/static/js/main.a6c5bf99.js",
+    "static/media/insta wizard.jpg": "/static/media/insta wizard.c07363a995ab1ff12535.jpg",
+    "static/media/prehelika.jpg": "/static/media/prehelika.7c31bca49b81bd7a2481.jpg",
+    "static/media/tug of war.jpg": "/static/media/tug of war.a8724f64bdcd58582ba4.jpg",
+    "static/media/Fun games.jpg": "/static/media/Fun games.a063e3e43c640b06247a.jpg",
+    "static/media/food challenge.jpg": "/static/media/food challenge.31f474e8a60e39971536.jpg",
+    "static/media/7 stones.jpg": "/static/media/7 stones.4ef343f667a48bc4a055.jpg",
+    "static/media/mine presso.jpg": "/static/media/mine presso.5c990ee75c1afce03dff.jpg",
+    "static/media/haunted mine maze.jpg": "/static/media/haunted mine maze.cabd1ec1f29ef66ee4ac.jpg",
+    "static/media/model making.jpg": "/static/media/model making.b29e2e7eee5546cc01a1.jpg",
+    "static/media/Prashnottar.jpg": "/static/media/Prashnottar.69675df82d27c6ca5ee7.jpg",
+    "static/media/mine experia.jpg": "/static/media/mine experia.a34fea43979d67a33d50.jpg",
+    "static/media/unlock your luck.jpg": "/static/media/unlock your luck.883bd8dd7fda70ddc0ee.jpg",
+    "static/media/geo oriel.jpg": "/static/media/geo oriel.df0cde710a11043755d6.jpg",
+    "static/media/Cric - Circle.jpg": "/static/media/Cric - Circle.de0419f648ff489813a2.jpg",
+    "static/media/mineria.png": "/static/media/mineria.bd52645b55a7f217bbf3.png",
+    "static/media/cv.pdf": "/static/media/cv.c48077296d14f03e2906.pdf",
+    "static/media/combined_logo_mineria.png": "/static/media/combined_logo_mineria.e49b2e3168fffd46b5c7.png",
+    "static/media/reg6006.svg": "/static/media/reg6006.4adb2478667f795e3e388e9a30cb0a48.svg",
+    "static/media/reg1505.svg": "/static/media/reg1505.2cfa982b2aeda9fc2882be0e81f3677e.svg",
+    "static/media/reg299.svg": "/static/media/reg299.8f326c85db5953e5666773774c9c5787.svg",
+    "static/media/reg99.svg": "/static/media/reg99.cba9bc74d8aab07e159c346eee1cdd10.svg",
+    "static/media/reg30.svg": "/static/media/reg30.ebb3175d83c0ebb11b4fc2e82fd9c60f.svg",
+    "static/media/reg150.svg": "/static/media/reg150.197172fa437c71ca993cd6de03e4146e.svg",
+    "static/media/reg100.svg": "/static/media/reg100.b00ae24802d6fcdcfcb99e11b5d8ceda.svg",
+    "static/media/reg50.svg": "/static/media/reg50.32d8f3336ab23284e08122a9e8ae8912.svg",
+    "static/media/reg20.svg": "/static/media/reg20.92590ffa6d149e73012b23053fcfcc56.svg",
+    "static/media/reg49.svg": "/static/media/reg49.056d3b20ef60d24ad4ebe51faf530fda.svg",
+    "static/media/regfree.svg": "/static/media/regfree.65b5e372c6ccc12c54efd65bbdcddb52.svg",
+    "index.html": "/index.html",
+    "main.204f7c0b.css.map": "/static/css/main.204f7c0b.css.map",
+    "main.a6c5bf99.js.map": "/static/js/main.a6c5bf99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204f7c0b.css",
+    "static/js/main.a6c5bf99.js"
+  ]
+}
